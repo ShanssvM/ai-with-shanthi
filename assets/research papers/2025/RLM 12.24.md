@@ -55,8 +55,13 @@ It will come from teaching models **how to think with constraints**.
 Recursive Language Models are a strong signal that we’re moving in that direction.
 
 Curious how others see this:  
-👉 Do you think recursion + tooling is the future of LLM reasoning?  
-👉 Or will raw model scaling still dominate?
+Will Recursive Language Models become part of Agentic AI architectures — as a core reasoning pattern for agents that plan, act, and reflect?
+Or
+Will RLMs evolve as an independent architectural layer, focused specifically on long-context reasoning and large-scale information navigation?
+Or
+Do you think recursion + tooling is the future of LLM reasoning?  
+Or 
+Will raw model scaling still dominate?
 
 ---
 
