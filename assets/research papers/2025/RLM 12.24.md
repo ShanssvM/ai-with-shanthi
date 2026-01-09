@@ -47,7 +47,7 @@ Especially important for:
 
 When models stop pretending they can “remember everything” and instead learn **how to search, decompose, and reason**, we get systems that are not just larger — but *smarter*.
 
-🔍 **My takeaway**
+**My takeaway**
 
 The next leap in AI won’t come from endlessly stretching context windows.  
 It will come from teaching models **how to think with constraints**.  
