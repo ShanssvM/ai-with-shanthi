@@ -1,1 +1,14 @@
+<html>
+## Research Paper Analysis Summary  
+**Paper:** Recursive Language Models  
+**Link:** https://arxiv.org/pdf/2512.24601
 
+| Category | S-NIAH (Scalable Needle-In-A-Haystack) | OOLONG | OOLONG-Pairs |
+|--------|----------------------------------------|--------|--------------|
+| What it Tests | Ability to find specific critical information hidden in extremely large documents | Reasoning across long documents where information is distributed across many sections | Cross-document reasoning over multiple long documents |
+| Simple Explanation | Finding a small but important detail buried inside millions of tokens | Combining insights from multiple distant parts of a long report | Comparing or aggregating information from two very large documents |
+| Why It Matters in Real World | Legal discovery, compliance checks, audit trails, investigative research | Policy interpretation, research synthesis, technical documentation | Contract comparison, regulatory alignment, M&A due diligence |
+| Why RLMs Perform Well | RLMs programmatically search and narrow context instead of reading everything at once | RLMs recursively decompose documents and analyze relevant sections | RLMs process each document independently and then reason across results |
+
+
+</html>
