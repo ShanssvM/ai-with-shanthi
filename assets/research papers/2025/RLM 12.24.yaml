@@ -1,4 +1,9 @@
-<html>
+
+### ✅ Correct (table WILL render)
+Paste it **directly** into the Markdown file like this:
+
+---
+
 ## Research Paper Analysis Summary  
 **Paper:** Recursive Language Models  
 **Link:** https://arxiv.org/pdf/2512.24601
@@ -10,5 +15,27 @@
 | Why It Matters in Real World | Legal discovery, compliance checks, audit trails, investigative research | Policy interpretation, research synthesis, technical documentation | Contract comparison, regulatory alignment, M&A due diligence |
 | Why RLMs Perform Well | RLMs programmatically search and narrow context instead of reading everything at once | RLMs recursively decompose documents and analyze relevant sections | RLMs process each document independently and then reason across results |
 
+---
 
-</html>
+## 3️⃣ Use GitHub’s **Preview** tab (this is key)
+
+When editing on GitHub:
+
+1. Click the **Edit (✏️)** icon  
+2. Click **Preview**  
+3. You should see a clean table layout
+
+If you still see raw `|` symbols → something is wrong (usually spacing or backticks).
+
+---
+
+## 4️⃣ Common formatting rules (quick checklist)
+
+✔ One header row  
+✔ One separator row with `---`  
+✔ Same number of columns in every row  
+✔ No extra spaces before or after `|` at line start  
+
+Example of a **broken row**:
+```markdown
+| Why RLMs Perform Well | text | text |
